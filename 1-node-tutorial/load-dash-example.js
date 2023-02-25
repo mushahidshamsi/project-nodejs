@@ -1,3 +1,7 @@
+// I myself created this file
+// This file is not part of the tutorial
+// The code was part of the tutorial
+
 const _ = require("lodash");
 
 const items = [1, [2, [3, [4]]]];
